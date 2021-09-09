@@ -1,7 +1,7 @@
 # sherutezz
 Assingment
 
-**Requiremtnts:
+**Requirements:
   python3
   socket
   mysql.connector
