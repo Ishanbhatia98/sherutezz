@@ -1,5 +1,9 @@
 # sherutezz
-Assingment
+Assingment-
+1.Created database in mysql.(database.py)
+2.Established socket connection.(server.py)
+3.Scraped Data from provided url and updated the database.(client.py)
+4.Developed code to update the database(update.py)*
 
 Database used:Mysql lite
 Hosted on:local host
