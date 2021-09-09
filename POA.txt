@@ -1,4 +1,4 @@
 
 1. Solve errors in update.py.
 2. Convert code in update file to accmodate code from cronjobs, for real-time updating of the database.
-3. Create Web page with features to display logs, toggle IOT on/off remotely.
+3. Create Web page with features to display logs, toggle IOT on/off remotely/Battery alerts.
